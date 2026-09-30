@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="cv3/cv3.csproj" />
+  <Project Path="Database/Database.csproj" />
+</Solution>
