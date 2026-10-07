@@ -1,0 +1,1 @@
+## dobrovolne ukoly z kelivna, idk jestli to budu delat, ale muzu neco zkouset
